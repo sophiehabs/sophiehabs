@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently pursuing a Masters in Computer Science at IE in Madrid
-- 🌱 I’m currently learning Fullstack Development (JavaScript, Node.js, HTML, CSS, MongoDB...)
+🔭 I’m currently pursuing a Masters in Computer Science at IE in Madrid
+🌱 I’m currently learning Fullstack Development (JavaScript, Node.js, HTML, CSS, MongoDB...)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: sophie.schaesberg@student.ie.edu
+📫 How to reach me: sophie.schaesberg@student.ie.edu
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: I've landed a plane on a rugged airstrip in Alaska
+⚡ Fun fact: I've landed a plane on a rugged airstrip in Alaska
 
