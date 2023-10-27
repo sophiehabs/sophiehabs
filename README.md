@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently pursuing a Masters in Computer Science at IE in Madrid
+🔭 I recently completed a Masters in Computer Science at IE in Madrid
 
-🌱 I’m currently learning Fullstack Development (JavaScript, Node.js, HTML, CSS, MongoDB...)
+🌱 I’m currently learning Fullstack Development (TypeScript, React, Node.js, MongoDB...)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-📫 How to reach me: sophie@schaesberg.com
+📫 How to reach me: sophie@habs.bg
 <!--
 - 😄 Pronouns: ...
 -->
